@@ -1,4 +1,14 @@
 {
+  "latest": {
+    "desktop": {
+      "version": "1.4.4.6",
+      "url": "https://www.terraria.org/api/download/pc-dedicated-server/terraria-server-1446-fixed.zip"
+    },
+    "mobile": {
+      "version": "",
+      "url": null
+    }
+  },
   "versions": [
     {
       "version": "1.4.4.6",
@@ -50,7 +60,7 @@
       "trunc_version": "1441",
       "server_urls":
         {
-          "desktop": "https://www.terraria.org/api/download/pc-dedicated-server/terraria-server-1441.zip",
+          "desktop": "https://www.terraria.org/api/download/pc-dedicated-server/terraria-server-1441-fixed.zip",
           "mobile": "https://www.terraria.org/api/download/mobile-dedicated-server/terraria-server-1441-fixed.zip"
         }
     },
@@ -71,6 +81,33 @@
           "desktop": "https://www.terraria.org/api/download/pc-dedicated-server/terraria-server-1436.zip",
           "mobile": null
         }
-    }
+    },
+    {
+      "version": "1.4.2.3",
+      "trunc_version": "1423",
+      "server_urls":
+        {
+          "desktop": "https://www.terraria.org/api/download/pc-dedicated-server/terraria-server-1423.zip",
+          "mobile": null
+        }
+    },
+    {
+      "version": "1.4.1.2",
+      "trunc_version": "1412",
+      "server_urls":
+        {
+          "desktop": "https://www.terraria.org/api/download/pc-dedicated-server/terraria-server-1412.zip",
+          "mobile": null
+        }
+    },
+    {
+      "version": "1.4.0.5",
+      "trunc_version": "1405",
+      "server_urls":
+        {
+          "desktop": "https://www.terraria.org/system/dedicated_servers/archives/000/000/040/original/terraria-server-1410.zip",
+          "mobile": null
+        }
+    },
   ]
 }
