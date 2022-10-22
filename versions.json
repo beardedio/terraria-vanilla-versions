@@ -1,0 +1,76 @@
+{
+  "versions": [
+    {
+      "version": "1.4.4.6",
+      "trunc_version": "1446",
+      "server_urls":
+        {
+          "desktop": "https://www.terraria.org/api/download/pc-dedicated-server/terraria-server-1446-fixed.zip",
+          "mobile": null
+        }
+    },
+    {
+      "version": "1.4.4.5",
+      "trunc_version": "1446",
+      "server_urls":
+        {
+          "desktop": "https://www.terraria.org/api/download/pc-dedicated-server/terraria-server-1445.zip",
+          "mobile": null
+        }
+    },
+    {
+      "version": "1.4.4.4",
+      "trunc_version": "1444",
+      "server_urls":
+        {
+          "desktop": "https://www.terraria.org/api/download/pc-dedicated-server/terraria-server-1444.zip",
+          "mobile": null
+        }
+    },
+    {
+      "version": "1.4.4.3",
+      "trunc_version": "1443",
+      "server_urls":
+        {
+          "desktop": "https://www.terraria.org/api/download/pc-dedicated-server/terraria-server-1443.zip",
+          "mobile": null
+        }
+    },
+    {
+      "version": "1.4.4.2",
+      "trunc_version": "1442",
+      "server_urls":
+        {
+          "desktop": "https://www.terraria.org/api/download/pc-dedicated-server/terraria-server-1442.zip",
+          "mobile": null
+        }
+    },
+    {
+      "version": "1.4.4.1",
+      "trunc_version": "1441",
+      "server_urls":
+        {
+          "desktop": "https://www.terraria.org/api/download/pc-dedicated-server/terraria-server-1441.zip",
+          "mobile": "https://www.terraria.org/api/download/mobile-dedicated-server/terraria-server-1441-fixed.zip"
+        }
+    },
+    {
+      "version": "1.4.4.0",
+      "trunc_version": "144",
+      "server_urls":
+        {
+          "desktop": "https://www.terraria.org/api/download/pc-dedicated-server/terraria-server-144.zip",
+          "mobile": null
+        }
+    },
+    {
+      "version": "1.4.3.6",
+      "trunc_version": "1436",
+      "server_urls":
+        {
+          "desktop": "https://www.terraria.org/api/download/pc-dedicated-server/terraria-server-1436.zip",
+          "mobile": null
+        }
+    }
+  ]
+}
